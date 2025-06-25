@@ -1,7 +1,29 @@
 
 # 📊 iFood Campaign Marketing Analytics Dashboard
 
-This project is an **interactive Streamlit dashboard** built to analyze and visualize the effectiveness of various iFood marketing campaigns. The dashboard provides insightful exploratory data analysis, campaign A/B testing, PCA-based dimensionality reduction, and consumer behavior metrics, allowing data-driven marketing decisions.
+This project is an **interactive Streamlit dashboard** built to analyze and visualize the effectiveness of various iFood marketing campaigns. The dashboard provides insightful exploratory data analysis, campaign A/B testing, PCA-based dimensionality reduction, and consumer behavior metrics, allowing data-driven marketing decisions. It is ideal for marketing teams seeking actionable intelligence for targeted strategy and ROI optimization.
+
+---
+
+This iFood Marketing Campaign Analytics Dashboard can be accessed live on streamlit [Here](https://ifoodanalytics.streamlit.app/)
+
+---
+
+## 📬 Author
+
+**Gbenga Kajola**
+🎓 Certified Data Analyst | 👨‍💻 Certified Data Scientist | 🧠 AI/ML Engineer | 📱 Mobile App Developer 
+
+[LinkedIn](https://www.linkedin.com/in/kajolagbenga)
+
+[Portfolio](https://kajolagbenga.netlify.app)
+
+[Certified_Data_Scientist](https://www.datacamp.com/certificate/DSA0012312825030)
+
+[Certified_Data_Analyst](https://www.datacamp.com/certificate/DAA0018583322187)
+
+[Certified_SQL_Database_Programmer](https://www.datacamp.com/certificate/SQA0019722049554)
+
 
 ---
 
@@ -113,22 +135,6 @@ Then navigate to `http://localhost:8501` in your browser.
 ## 📥 Sample Report Output
 
 If `iFood_Campaign_Insights_Report.docx` is present in the directory, a download button will appear on the dashboard for users to export key insights.
-
----
-
-## 👨‍💻 About the Developer
-
-**Kajola Gbenga**
-
-📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer | Mobile App Developer | AI/ML Engineer  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/kajolagbenga)  
-📜 [Certifications & Licences](https://www.datacamp.com/portfolio/kgbenga234)  
-💻 [GitHub](https://github.com/prodigy234)  
-🌐 [Portfolio](https://kajolagbenga.netlify.app/)  
-📧 k.gbenga234@gmail.com  
-
-✅ Created using Python and Streamlit
 
 ---
 

@@ -23,6 +23,7 @@ data = preprocess_data(data)
 # Streamlit Setup
 st.set_page_config(page_title='iFood Campaign Analytics', layout='wide', page_icon='📊')
 st.title('📊 iFood Campaign Marketing Analytics Dashboard')
+st.info('This is an highly interactive and data-driven Streamlit dashboard that provides advanced analytics on iFood’s marketing campaigns using customer transaction and demographic data. The app performs Exploratory Data Analysis (EDA), campaign A/B testing, and dimensionality reduction (PCA), while highlighting key marketing insights such as customer response rates, spending behavior, and best-performing campaigns.')
 
 # Sidebar Filters
 st.sidebar.header("Filter Options")
