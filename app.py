@@ -112,7 +112,7 @@ st.subheader("📄 Download Sales Report")
 try:
     with open("iFood_Campaign_Insights_Report.docx", "rb") as file:
         st.download_button(
-            label="📥 Click to Download Sales Analysis Report (Word)",
+            label="📥 Click to Download iFood Campaign Marketing Analytics (Word)",
             data=file,
             file_name="iFood Campaign Insights Report.docx",
             mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
